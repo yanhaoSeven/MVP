@@ -5,7 +5,7 @@ import com.example.mvp.model.HttpInterfaceModel;
 import com.example.mvp.model.HttpModelImpl;
 import com.example.mvp.view.HttpInterfaceView;
 
-//viewºÍÒµÎñÔ±Ö®¼äµÄÊµÏÖÆ÷
+//viewå’Œactivityä¹‹é—´çš„ä¸šåŠ¡å¤„ç†
 public class HttpPresenter {
 	private HttpInterfaceModel model;
 	private HttpInterfaceView view;
