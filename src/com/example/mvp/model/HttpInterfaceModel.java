@@ -2,7 +2,7 @@ package com.example.mvp.model;
 
 import com.example.mvp.callBack.HttpCallBack;
 
-//viewÒ³ÃæµÄÒµÎñ½Ó¿Ú
+//viewé¡µé¢çš„ä¸šåŠ¡æ¥å£
 public interface HttpInterfaceModel {
 
 	void getHttp(String url, HttpCallBack callback);
